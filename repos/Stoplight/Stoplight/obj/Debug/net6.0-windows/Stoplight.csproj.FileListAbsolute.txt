@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Stoplight\Stoplight\bin\Debug\net6.0-windows\Stoplight.exe
+C:\Users\Admin\source\repos\Stoplight\Stoplight\bin\Debug\net6.0-windows\Stoplight.deps.json
+C:\Users\Admin\source\repos\Stoplight\Stoplight\bin\Debug\net6.0-windows\Stoplight.runtimeconfig.json
+C:\Users\Admin\source\repos\Stoplight\Stoplight\bin\Debug\net6.0-windows\Stoplight.dll
+C:\Users\Admin\source\repos\Stoplight\Stoplight\bin\Debug\net6.0-windows\Stoplight.pdb
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\Stoplight.Form1.resources
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\Stoplight.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\Stoplight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\Stoplight.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\Stoplight.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\Stoplight.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\Stoplight.dll
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\refint\Stoplight.dll
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\Stoplight.pdb
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\Stoplight.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\ref\Stoplight.dll
+C:\Users\Admin\source\repos\Stoplight\Stoplight\obj\Debug\net6.0-windows\Stoplight.Properties.Resources.resources
